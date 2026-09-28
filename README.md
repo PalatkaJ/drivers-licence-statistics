@@ -39,8 +39,7 @@ The dataset includes applicant information and performance metrics such as:
 │   └── drivers_licence_data.csv
 ├── statistics_project.ipynb
 ├── README.md
-├── .gitignore
-└── .DS_Store
+└── .gitignore
 ```
 
 ## What is analyzed in the notebook?
@@ -78,8 +77,8 @@ pip install pandas numpy matplotlib seaborn scipy jupyter
 Clone the repository and start Jupyter:
 
 ```bash
-git clone https://github.com/PalatkaJ/drivers_licence_statistics.git
-cd drivers_licence_statistics
+git clone https://github.com/PalatkaJ/drivers-licence-statistics.git
+cd drivers-licence-statistics
 jupyter notebook
 ```
 
